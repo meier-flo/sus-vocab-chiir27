@@ -1,0 +1,727 @@
+certification,term,n_term,n_reviews,rate,low_support
+B Corp,organic,112,9311,0.012029,FALSE
+B Corp,vegan,58,9311,0.006229,FALSE
+B Corp,eco-friendly,52,9311,0.005585,FALSE
+B Corp,non-toxic,34,9311,0.003652,FALSE
+B Corp,refill,27,9311,0.0029,FALSE
+B Corp,plant-based,26,9311,0.002792,FALSE
+B Corp,sustainable,25,9311,0.002685,FALSE
+B Corp,recycle,24,9311,0.002578,FALSE
+B Corp,durable,23,9311,0.00247,FALSE
+B Corp,plastic-free,18,9311,0.001933,TRUE
+B Corp,cruelty-free,10,9311,0.001074,TRUE
+B Corp,reusable,10,9311,0.001074,TRUE
+B Corp,biodegradable,6,9311,6.44e-4,TRUE
+B Corp,chemical-free,4,9311,4.3e-4,TRUE
+B Corp,free-range,3,9311,3.22e-4,TRUE
+B Corp,compostable,2,9311,2.15e-4,TRUE
+B Corp,zerowaste,2,9311,2.15e-4,TRUE
+B Corp,low-impact,1,9311,1.07e-4,TRUE
+B Corp,vegetarian,1,9311,1.07e-4,TRUE
+B Corp,waste-free,1,9311,1.07e-4,TRUE
+B Corp,water-saving,1,9311,1.07e-4,TRUE
+B Corp,carbon-neutral,0,9311,0,TRUE
+B Corp,closed-loop,0,9311,0,TRUE
+B Corp,emission-free,0,9311,0,TRUE
+B Corp,energy-efficient,0,9311,0,TRUE
+B Corp,energy-saving,0,9311,0,TRUE
+B Corp,low-carbon,0,9311,0,TRUE
+B Corp,net-zero,0,9311,0,TRUE
+B Corp,rechargeable,0,9311,0,TRUE
+B Corp,refurbished,0,9311,0,TRUE
+B Corp,renewable,0,9311,0,TRUE
+B Corp,solar,0,9311,0,TRUE
+B Corp,upcycled,0,9311,0,TRUE
+Bluesign,durable,31,867,0.035755,FALSE
+Bluesign,reusable,7,867,0.008074,TRUE
+Bluesign,eco-friendly,4,867,0.004614,TRUE
+Bluesign,recycle,4,867,0.004614,TRUE
+Bluesign,refill,1,867,0.001153,TRUE
+Bluesign,biodegradable,0,867,0,TRUE
+Bluesign,carbon-neutral,0,867,0,TRUE
+Bluesign,chemical-free,0,867,0,TRUE
+Bluesign,closed-loop,0,867,0,TRUE
+Bluesign,compostable,0,867,0,TRUE
+Bluesign,cruelty-free,0,867,0,TRUE
+Bluesign,emission-free,0,867,0,TRUE
+Bluesign,energy-efficient,0,867,0,TRUE
+Bluesign,energy-saving,0,867,0,TRUE
+Bluesign,free-range,0,867,0,TRUE
+Bluesign,low-carbon,0,867,0,TRUE
+Bluesign,low-impact,0,867,0,TRUE
+Bluesign,net-zero,0,867,0,TRUE
+Bluesign,non-toxic,0,867,0,TRUE
+Bluesign,organic,0,867,0,TRUE
+Bluesign,plant-based,0,867,0,TRUE
+Bluesign,plastic-free,0,867,0,TRUE
+Bluesign,rechargeable,0,867,0,TRUE
+Bluesign,refurbished,0,867,0,TRUE
+Bluesign,renewable,0,867,0,TRUE
+Bluesign,solar,0,867,0,TRUE
+Bluesign,sustainable,0,867,0,TRUE
+Bluesign,upcycled,0,867,0,TRUE
+Bluesign,vegan,0,867,0,TRUE
+Bluesign,vegetarian,0,867,0,TRUE
+Bluesign,waste-free,0,867,0,TRUE
+Bluesign,water-saving,0,867,0,TRUE
+Bluesign,zerowaste,0,867,0,TRUE
+CertiPUR-US,durable,195,45226,0.004312,FALSE
+CertiPUR-US,refill,16,45226,3.54e-4,TRUE
+CertiPUR-US,recycle,10,45226,2.21e-4,TRUE
+CertiPUR-US,organic,6,45226,1.33e-4,TRUE
+CertiPUR-US,sustainable,5,45226,1.11e-4,TRUE
+CertiPUR-US,non-toxic,4,45226,8.8e-5,TRUE
+CertiPUR-US,biodegradable,1,45226,2.2e-5,TRUE
+CertiPUR-US,eco-friendly,1,45226,2.2e-5,TRUE
+CertiPUR-US,reusable,1,45226,2.2e-5,TRUE
+CertiPUR-US,upcycled,1,45226,2.2e-5,TRUE
+CertiPUR-US,carbon-neutral,0,45226,0,TRUE
+CertiPUR-US,chemical-free,0,45226,0,TRUE
+CertiPUR-US,closed-loop,0,45226,0,TRUE
+CertiPUR-US,compostable,0,45226,0,TRUE
+CertiPUR-US,cruelty-free,0,45226,0,TRUE
+CertiPUR-US,emission-free,0,45226,0,TRUE
+CertiPUR-US,energy-efficient,0,45226,0,TRUE
+CertiPUR-US,energy-saving,0,45226,0,TRUE
+CertiPUR-US,free-range,0,45226,0,TRUE
+CertiPUR-US,low-carbon,0,45226,0,TRUE
+CertiPUR-US,low-impact,0,45226,0,TRUE
+CertiPUR-US,net-zero,0,45226,0,TRUE
+CertiPUR-US,plant-based,0,45226,0,TRUE
+CertiPUR-US,plastic-free,0,45226,0,TRUE
+CertiPUR-US,rechargeable,0,45226,0,TRUE
+CertiPUR-US,refurbished,0,45226,0,TRUE
+CertiPUR-US,renewable,0,45226,0,TRUE
+CertiPUR-US,solar,0,45226,0,TRUE
+CertiPUR-US,vegan,0,45226,0,TRUE
+CertiPUR-US,vegetarian,0,45226,0,TRUE
+CertiPUR-US,waste-free,0,45226,0,TRUE
+CertiPUR-US,water-saving,0,45226,0,TRUE
+CertiPUR-US,zerowaste,0,45226,0,TRUE
+Certified Humane,free-range,4,402,0.00995,TRUE
+Certified Humane,organic,2,402,0.004975,TRUE
+Certified Humane,sustainable,1,402,0.002488,TRUE
+Certified Humane,vegetarian,1,402,0.002488,TRUE
+Certified Humane,biodegradable,0,402,0,TRUE
+Certified Humane,carbon-neutral,0,402,0,TRUE
+Certified Humane,chemical-free,0,402,0,TRUE
+Certified Humane,closed-loop,0,402,0,TRUE
+Certified Humane,compostable,0,402,0,TRUE
+Certified Humane,cruelty-free,0,402,0,TRUE
+Certified Humane,durable,0,402,0,TRUE
+Certified Humane,eco-friendly,0,402,0,TRUE
+Certified Humane,emission-free,0,402,0,TRUE
+Certified Humane,energy-efficient,0,402,0,TRUE
+Certified Humane,energy-saving,0,402,0,TRUE
+Certified Humane,low-carbon,0,402,0,TRUE
+Certified Humane,low-impact,0,402,0,TRUE
+Certified Humane,net-zero,0,402,0,TRUE
+Certified Humane,non-toxic,0,402,0,TRUE
+Certified Humane,plant-based,0,402,0,TRUE
+Certified Humane,plastic-free,0,402,0,TRUE
+Certified Humane,rechargeable,0,402,0,TRUE
+Certified Humane,recycle,0,402,0,TRUE
+Certified Humane,refill,0,402,0,TRUE
+Certified Humane,refurbished,0,402,0,TRUE
+Certified Humane,renewable,0,402,0,TRUE
+Certified Humane,reusable,0,402,0,TRUE
+Certified Humane,solar,0,402,0,TRUE
+Certified Humane,upcycled,0,402,0,TRUE
+Certified Humane,vegan,0,402,0,TRUE
+Certified Humane,waste-free,0,402,0,TRUE
+Certified Humane,water-saving,0,402,0,TRUE
+Certified Humane,zerowaste,0,402,0,TRUE
+Certified Vegan,vegan,119,16919,0.007034,FALSE
+Certified Vegan,organic,34,16919,0.00201,FALSE
+Certified Vegan,vegetarian,24,16919,0.001419,FALSE
+Certified Vegan,plant-based,23,16919,0.001359,FALSE
+Certified Vegan,cruelty-free,10,16919,5.91e-4,TRUE
+Certified Vegan,non-toxic,9,16919,5.32e-4,TRUE
+Certified Vegan,durable,5,16919,2.96e-4,TRUE
+Certified Vegan,eco-friendly,5,16919,2.96e-4,TRUE
+Certified Vegan,reusable,5,16919,2.96e-4,TRUE
+Certified Vegan,recycle,4,16919,2.36e-4,TRUE
+Certified Vegan,sustainable,3,16919,1.77e-4,TRUE
+Certified Vegan,chemical-free,2,16919,1.18e-4,TRUE
+Certified Vegan,refill,2,16919,1.18e-4,TRUE
+Certified Vegan,biodegradable,0,16919,0,TRUE
+Certified Vegan,carbon-neutral,0,16919,0,TRUE
+Certified Vegan,closed-loop,0,16919,0,TRUE
+Certified Vegan,compostable,0,16919,0,TRUE
+Certified Vegan,emission-free,0,16919,0,TRUE
+Certified Vegan,energy-efficient,0,16919,0,TRUE
+Certified Vegan,energy-saving,0,16919,0,TRUE
+Certified Vegan,free-range,0,16919,0,TRUE
+Certified Vegan,low-carbon,0,16919,0,TRUE
+Certified Vegan,low-impact,0,16919,0,TRUE
+Certified Vegan,net-zero,0,16919,0,TRUE
+Certified Vegan,plastic-free,0,16919,0,TRUE
+Certified Vegan,rechargeable,0,16919,0,TRUE
+Certified Vegan,refurbished,0,16919,0,TRUE
+Certified Vegan,renewable,0,16919,0,TRUE
+Certified Vegan,solar,0,16919,0,TRUE
+Certified Vegan,upcycled,0,16919,0,TRUE
+Certified Vegan,waste-free,0,16919,0,TRUE
+Certified Vegan,water-saving,0,16919,0,TRUE
+Certified Vegan,zerowaste,0,16919,0,TRUE
+Cradle to Cradle,non-toxic,3,182,0.016484,TRUE
+Cradle to Cradle,cruelty-free,1,182,0.005495,TRUE
+Cradle to Cradle,durable,1,182,0.005495,TRUE
+Cradle to Cradle,eco-friendly,1,182,0.005495,TRUE
+Cradle to Cradle,plastic-free,1,182,0.005495,TRUE
+Cradle to Cradle,recycle,1,182,0.005495,TRUE
+Cradle to Cradle,sustainable,1,182,0.005495,TRUE
+Cradle to Cradle,vegan,1,182,0.005495,TRUE
+Cradle to Cradle,biodegradable,0,182,0,TRUE
+Cradle to Cradle,carbon-neutral,0,182,0,TRUE
+Cradle to Cradle,chemical-free,0,182,0,TRUE
+Cradle to Cradle,closed-loop,0,182,0,TRUE
+Cradle to Cradle,compostable,0,182,0,TRUE
+Cradle to Cradle,emission-free,0,182,0,TRUE
+Cradle to Cradle,energy-efficient,0,182,0,TRUE
+Cradle to Cradle,energy-saving,0,182,0,TRUE
+Cradle to Cradle,free-range,0,182,0,TRUE
+Cradle to Cradle,low-carbon,0,182,0,TRUE
+Cradle to Cradle,low-impact,0,182,0,TRUE
+Cradle to Cradle,net-zero,0,182,0,TRUE
+Cradle to Cradle,organic,0,182,0,TRUE
+Cradle to Cradle,plant-based,0,182,0,TRUE
+Cradle to Cradle,rechargeable,0,182,0,TRUE
+Cradle to Cradle,refill,0,182,0,TRUE
+Cradle to Cradle,refurbished,0,182,0,TRUE
+Cradle to Cradle,renewable,0,182,0,TRUE
+Cradle to Cradle,reusable,0,182,0,TRUE
+Cradle to Cradle,solar,0,182,0,TRUE
+Cradle to Cradle,upcycled,0,182,0,TRUE
+Cradle to Cradle,vegetarian,0,182,0,TRUE
+Cradle to Cradle,waste-free,0,182,0,TRUE
+Cradle to Cradle,water-saving,0,182,0,TRUE
+Cradle to Cradle,zerowaste,0,182,0,TRUE
+EPA Safer Choice,eco-friendly,28,3245,0.008629,FALSE
+EPA Safer Choice,non-toxic,15,3245,0.004622,TRUE
+EPA Safer Choice,refill,12,3245,0.003698,TRUE
+EPA Safer Choice,plant-based,7,3245,0.002157,TRUE
+EPA Safer Choice,recycle,7,3245,0.002157,TRUE
+EPA Safer Choice,reusable,6,3245,0.001849,TRUE
+EPA Safer Choice,sustainable,6,3245,0.001849,TRUE
+EPA Safer Choice,organic,3,3245,9.24e-4,TRUE
+EPA Safer Choice,cruelty-free,2,3245,6.16e-4,TRUE
+EPA Safer Choice,plastic-free,2,3245,6.16e-4,TRUE
+EPA Safer Choice,biodegradable,1,3245,3.08e-4,TRUE
+EPA Safer Choice,chemical-free,1,3245,3.08e-4,TRUE
+EPA Safer Choice,durable,1,3245,3.08e-4,TRUE
+EPA Safer Choice,vegan,1,3245,3.08e-4,TRUE
+EPA Safer Choice,carbon-neutral,0,3245,0,TRUE
+EPA Safer Choice,closed-loop,0,3245,0,TRUE
+EPA Safer Choice,compostable,0,3245,0,TRUE
+EPA Safer Choice,emission-free,0,3245,0,TRUE
+EPA Safer Choice,energy-efficient,0,3245,0,TRUE
+EPA Safer Choice,energy-saving,0,3245,0,TRUE
+EPA Safer Choice,free-range,0,3245,0,TRUE
+EPA Safer Choice,low-carbon,0,3245,0,TRUE
+EPA Safer Choice,low-impact,0,3245,0,TRUE
+EPA Safer Choice,net-zero,0,3245,0,TRUE
+EPA Safer Choice,rechargeable,0,3245,0,TRUE
+EPA Safer Choice,refurbished,0,3245,0,TRUE
+EPA Safer Choice,renewable,0,3245,0,TRUE
+EPA Safer Choice,solar,0,3245,0,TRUE
+EPA Safer Choice,upcycled,0,3245,0,TRUE
+EPA Safer Choice,vegetarian,0,3245,0,TRUE
+EPA Safer Choice,waste-free,0,3245,0,TRUE
+EPA Safer Choice,water-saving,0,3245,0,TRUE
+EPA Safer Choice,zerowaste,0,3245,0,TRUE
+EPEAT,durable,7,898,0.007795,TRUE
+EPEAT,recycle,7,898,0.007795,TRUE
+EPEAT,refurbished,7,898,0.007795,TRUE
+EPEAT,sustainable,2,898,0.002227,TRUE
+EPEAT,biodegradable,0,898,0,TRUE
+EPEAT,carbon-neutral,0,898,0,TRUE
+EPEAT,chemical-free,0,898,0,TRUE
+EPEAT,closed-loop,0,898,0,TRUE
+EPEAT,compostable,0,898,0,TRUE
+EPEAT,cruelty-free,0,898,0,TRUE
+EPEAT,eco-friendly,0,898,0,TRUE
+EPEAT,emission-free,0,898,0,TRUE
+EPEAT,energy-efficient,0,898,0,TRUE
+EPEAT,energy-saving,0,898,0,TRUE
+EPEAT,free-range,0,898,0,TRUE
+EPEAT,low-carbon,0,898,0,TRUE
+EPEAT,low-impact,0,898,0,TRUE
+EPEAT,net-zero,0,898,0,TRUE
+EPEAT,non-toxic,0,898,0,TRUE
+EPEAT,organic,0,898,0,TRUE
+EPEAT,plant-based,0,898,0,TRUE
+EPEAT,plastic-free,0,898,0,TRUE
+EPEAT,rechargeable,0,898,0,TRUE
+EPEAT,refill,0,898,0,TRUE
+EPEAT,renewable,0,898,0,TRUE
+EPEAT,reusable,0,898,0,TRUE
+EPEAT,solar,0,898,0,TRUE
+EPEAT,upcycled,0,898,0,TRUE
+EPEAT,vegan,0,898,0,TRUE
+EPEAT,vegetarian,0,898,0,TRUE
+EPEAT,waste-free,0,898,0,TRUE
+EPEAT,water-saving,0,898,0,TRUE
+EPEAT,zerowaste,0,898,0,TRUE
+Ecocert,organic,132,2257,0.058485,FALSE
+Ecocert,vegan,17,2257,0.007532,TRUE
+Ecocert,eco-friendly,14,2257,0.006203,TRUE
+Ecocert,recycle,6,2257,0.002658,TRUE
+Ecocert,compostable,5,2257,0.002215,TRUE
+Ecocert,cruelty-free,4,2257,0.001772,TRUE
+Ecocert,non-toxic,3,2257,0.001329,TRUE
+Ecocert,plant-based,3,2257,0.001329,TRUE
+Ecocert,sustainable,3,2257,0.001329,TRUE
+Ecocert,durable,2,2257,8.86e-4,TRUE
+Ecocert,plastic-free,2,2257,8.86e-4,TRUE
+Ecocert,refill,2,2257,8.86e-4,TRUE
+Ecocert,reusable,2,2257,8.86e-4,TRUE
+Ecocert,waste-free,2,2257,8.86e-4,TRUE
+Ecocert,biodegradable,1,2257,4.43e-4,TRUE
+Ecocert,carbon-neutral,0,2257,0,TRUE
+Ecocert,chemical-free,0,2257,0,TRUE
+Ecocert,closed-loop,0,2257,0,TRUE
+Ecocert,emission-free,0,2257,0,TRUE
+Ecocert,energy-efficient,0,2257,0,TRUE
+Ecocert,energy-saving,0,2257,0,TRUE
+Ecocert,free-range,0,2257,0,TRUE
+Ecocert,low-carbon,0,2257,0,TRUE
+Ecocert,low-impact,0,2257,0,TRUE
+Ecocert,net-zero,0,2257,0,TRUE
+Ecocert,rechargeable,0,2257,0,TRUE
+Ecocert,refurbished,0,2257,0,TRUE
+Ecocert,renewable,0,2257,0,TRUE
+Ecocert,solar,0,2257,0,TRUE
+Ecocert,upcycled,0,2257,0,TRUE
+Ecocert,vegetarian,0,2257,0,TRUE
+Ecocert,water-saving,0,2257,0,TRUE
+Ecocert,zerowaste,0,2257,0,TRUE
+Energy Star,energy-efficient,60,14649,0.004096,FALSE
+Energy Star,durable,40,14649,0.002731,FALSE
+Energy Star,refurbished,37,14649,0.002526,FALSE
+Energy Star,rechargeable,20,14649,0.001365,FALSE
+Energy Star,refill,12,14649,8.19e-4,TRUE
+Energy Star,recycle,11,14649,7.51e-4,TRUE
+Energy Star,solar,10,14649,6.83e-4,TRUE
+Energy Star,energy-saving,7,14649,4.78e-4,TRUE
+Energy Star,eco-friendly,4,14649,2.73e-4,TRUE
+Energy Star,reusable,4,14649,2.73e-4,TRUE
+Energy Star,plant-based,1,14649,6.8e-5,TRUE
+Energy Star,sustainable,1,14649,6.8e-5,TRUE
+Energy Star,biodegradable,0,14649,0,TRUE
+Energy Star,carbon-neutral,0,14649,0,TRUE
+Energy Star,chemical-free,0,14649,0,TRUE
+Energy Star,closed-loop,0,14649,0,TRUE
+Energy Star,compostable,0,14649,0,TRUE
+Energy Star,cruelty-free,0,14649,0,TRUE
+Energy Star,emission-free,0,14649,0,TRUE
+Energy Star,free-range,0,14649,0,TRUE
+Energy Star,low-carbon,0,14649,0,TRUE
+Energy Star,low-impact,0,14649,0,TRUE
+Energy Star,net-zero,0,14649,0,TRUE
+Energy Star,non-toxic,0,14649,0,TRUE
+Energy Star,organic,0,14649,0,TRUE
+Energy Star,plastic-free,0,14649,0,TRUE
+Energy Star,renewable,0,14649,0,TRUE
+Energy Star,upcycled,0,14649,0,TRUE
+Energy Star,vegan,0,14649,0,TRUE
+Energy Star,vegetarian,0,14649,0,TRUE
+Energy Star,waste-free,0,14649,0,TRUE
+Energy Star,water-saving,0,14649,0,TRUE
+Energy Star,zerowaste,0,14649,0,TRUE
+FSC,durable,200,10952,0.018262,FALSE
+FSC,recycle,67,10952,0.006118,FALSE
+FSC,eco-friendly,64,10952,0.005844,FALSE
+FSC,vegan,44,10952,0.004018,FALSE
+FSC,sustainable,39,10952,0.003561,FALSE
+FSC,refill,33,10952,0.003013,FALSE
+FSC,biodegradable,27,10952,0.002465,FALSE
+FSC,organic,27,10952,0.002465,FALSE
+FSC,reusable,27,10952,0.002465,FALSE
+FSC,non-toxic,18,10952,0.001644,TRUE
+FSC,cruelty-free,11,10952,0.001004,TRUE
+FSC,plant-based,11,10952,0.001004,TRUE
+FSC,plastic-free,11,10952,0.001004,TRUE
+FSC,compostable,10,10952,9.13e-4,TRUE
+FSC,zerowaste,9,10952,8.22e-4,TRUE
+FSC,rechargeable,7,10952,6.39e-4,TRUE
+FSC,refurbished,3,10952,2.74e-4,TRUE
+FSC,carbon-neutral,2,10952,1.83e-4,TRUE
+FSC,chemical-free,2,10952,1.83e-4,TRUE
+FSC,renewable,2,10952,1.83e-4,TRUE
+FSC,vegetarian,2,10952,1.83e-4,TRUE
+FSC,waste-free,2,10952,1.83e-4,TRUE
+FSC,low-impact,1,10952,9.1e-5,TRUE
+FSC,upcycled,1,10952,9.1e-5,TRUE
+FSC,closed-loop,0,10952,0,TRUE
+FSC,emission-free,0,10952,0,TRUE
+FSC,energy-efficient,0,10952,0,TRUE
+FSC,energy-saving,0,10952,0,TRUE
+FSC,free-range,0,10952,0,TRUE
+FSC,low-carbon,0,10952,0,TRUE
+FSC,net-zero,0,10952,0,TRUE
+FSC,solar,0,10952,0,TRUE
+FSC,water-saving,0,10952,0,TRUE
+Fairtrade,organic,370,23954,0.015446,FALSE
+Fairtrade,durable,67,23954,0.002797,FALSE
+Fairtrade,vegan,38,23954,0.001586,FALSE
+Fairtrade,recycle,34,23954,0.001419,FALSE
+Fairtrade,sustainable,28,23954,0.001169,FALSE
+Fairtrade,non-toxic,21,23954,8.77e-4,FALSE
+Fairtrade,reusable,19,23954,7.93e-4,TRUE
+Fairtrade,compostable,18,23954,7.51e-4,TRUE
+Fairtrade,eco-friendly,18,23954,7.51e-4,TRUE
+Fairtrade,plant-based,12,23954,5.01e-4,TRUE
+Fairtrade,cruelty-free,11,23954,4.59e-4,TRUE
+Fairtrade,chemical-free,10,23954,4.17e-4,TRUE
+Fairtrade,biodegradable,9,23954,3.76e-4,TRUE
+Fairtrade,refill,7,23954,2.92e-4,TRUE
+Fairtrade,vegetarian,4,23954,1.67e-4,TRUE
+Fairtrade,plastic-free,3,23954,1.25e-4,TRUE
+Fairtrade,solar,1,23954,4.2e-5,TRUE
+Fairtrade,upcycled,1,23954,4.2e-5,TRUE
+Fairtrade,zerowaste,1,23954,4.2e-5,TRUE
+Fairtrade,carbon-neutral,0,23954,0,TRUE
+Fairtrade,closed-loop,0,23954,0,TRUE
+Fairtrade,emission-free,0,23954,0,TRUE
+Fairtrade,energy-efficient,0,23954,0,TRUE
+Fairtrade,energy-saving,0,23954,0,TRUE
+Fairtrade,free-range,0,23954,0,TRUE
+Fairtrade,low-carbon,0,23954,0,TRUE
+Fairtrade,low-impact,0,23954,0,TRUE
+Fairtrade,net-zero,0,23954,0,TRUE
+Fairtrade,rechargeable,0,23954,0,TRUE
+Fairtrade,refurbished,0,23954,0,TRUE
+Fairtrade,renewable,0,23954,0,TRUE
+Fairtrade,waste-free,0,23954,0,TRUE
+Fairtrade,water-saving,0,23954,0,TRUE
+GOTS,organic,359,6797,0.052817,FALSE
+GOTS,durable,123,6797,0.018096,FALSE
+GOTS,reusable,28,6797,0.004119,FALSE
+GOTS,eco-friendly,21,6797,0.00309,FALSE
+GOTS,sustainable,11,6797,0.001618,TRUE
+GOTS,non-toxic,7,6797,0.00103,TRUE
+GOTS,chemical-free,4,6797,5.88e-4,TRUE
+GOTS,recycle,4,6797,5.88e-4,TRUE
+GOTS,carbon-neutral,2,6797,2.94e-4,TRUE
+GOTS,plastic-free,2,6797,2.94e-4,TRUE
+GOTS,compostable,1,6797,1.47e-4,TRUE
+GOTS,refill,1,6797,1.47e-4,TRUE
+GOTS,solar,1,6797,1.47e-4,TRUE
+GOTS,biodegradable,0,6797,0,TRUE
+GOTS,closed-loop,0,6797,0,TRUE
+GOTS,cruelty-free,0,6797,0,TRUE
+GOTS,emission-free,0,6797,0,TRUE
+GOTS,energy-efficient,0,6797,0,TRUE
+GOTS,energy-saving,0,6797,0,TRUE
+GOTS,free-range,0,6797,0,TRUE
+GOTS,low-carbon,0,6797,0,TRUE
+GOTS,low-impact,0,6797,0,TRUE
+GOTS,net-zero,0,6797,0,TRUE
+GOTS,plant-based,0,6797,0,TRUE
+GOTS,rechargeable,0,6797,0,TRUE
+GOTS,refurbished,0,6797,0,TRUE
+GOTS,renewable,0,6797,0,TRUE
+GOTS,upcycled,0,6797,0,TRUE
+GOTS,vegan,0,6797,0,TRUE
+GOTS,vegetarian,0,6797,0,TRUE
+GOTS,waste-free,0,6797,0,TRUE
+GOTS,water-saving,0,6797,0,TRUE
+GOTS,zerowaste,0,6797,0,TRUE
+GREENGUARD,durable,144,8272,0.017408,FALSE
+GREENGUARD,reusable,7,8272,8.46e-4,TRUE
+GREENGUARD,non-toxic,6,8272,7.25e-4,TRUE
+GREENGUARD,organic,4,8272,4.84e-4,TRUE
+GREENGUARD,sustainable,3,8272,3.63e-4,TRUE
+GREENGUARD,eco-friendly,1,8272,1.21e-4,TRUE
+GREENGUARD,biodegradable,0,8272,0,TRUE
+GREENGUARD,carbon-neutral,0,8272,0,TRUE
+GREENGUARD,chemical-free,0,8272,0,TRUE
+GREENGUARD,closed-loop,0,8272,0,TRUE
+GREENGUARD,compostable,0,8272,0,TRUE
+GREENGUARD,cruelty-free,0,8272,0,TRUE
+GREENGUARD,emission-free,0,8272,0,TRUE
+GREENGUARD,energy-efficient,0,8272,0,TRUE
+GREENGUARD,energy-saving,0,8272,0,TRUE
+GREENGUARD,free-range,0,8272,0,TRUE
+GREENGUARD,low-carbon,0,8272,0,TRUE
+GREENGUARD,low-impact,0,8272,0,TRUE
+GREENGUARD,net-zero,0,8272,0,TRUE
+GREENGUARD,plant-based,0,8272,0,TRUE
+GREENGUARD,plastic-free,0,8272,0,TRUE
+GREENGUARD,rechargeable,0,8272,0,TRUE
+GREENGUARD,recycle,0,8272,0,TRUE
+GREENGUARD,refill,0,8272,0,TRUE
+GREENGUARD,refurbished,0,8272,0,TRUE
+GREENGUARD,renewable,0,8272,0,TRUE
+GREENGUARD,solar,0,8272,0,TRUE
+GREENGUARD,upcycled,0,8272,0,TRUE
+GREENGUARD,vegan,0,8272,0,TRUE
+GREENGUARD,vegetarian,0,8272,0,TRUE
+GREENGUARD,waste-free,0,8272,0,TRUE
+GREENGUARD,water-saving,0,8272,0,TRUE
+GREENGUARD,zerowaste,0,8272,0,TRUE
+Global Recycled Standard,recycle,31,894,0.034676,FALSE
+Global Recycled Standard,durable,19,894,0.021253,TRUE
+Global Recycled Standard,eco-friendly,3,894,0.003356,TRUE
+Global Recycled Standard,organic,3,894,0.003356,TRUE
+Global Recycled Standard,reusable,1,894,0.001119,TRUE
+Global Recycled Standard,biodegradable,0,894,0,TRUE
+Global Recycled Standard,carbon-neutral,0,894,0,TRUE
+Global Recycled Standard,chemical-free,0,894,0,TRUE
+Global Recycled Standard,closed-loop,0,894,0,TRUE
+Global Recycled Standard,compostable,0,894,0,TRUE
+Global Recycled Standard,cruelty-free,0,894,0,TRUE
+Global Recycled Standard,emission-free,0,894,0,TRUE
+Global Recycled Standard,energy-efficient,0,894,0,TRUE
+Global Recycled Standard,energy-saving,0,894,0,TRUE
+Global Recycled Standard,free-range,0,894,0,TRUE
+Global Recycled Standard,low-carbon,0,894,0,TRUE
+Global Recycled Standard,low-impact,0,894,0,TRUE
+Global Recycled Standard,net-zero,0,894,0,TRUE
+Global Recycled Standard,non-toxic,0,894,0,TRUE
+Global Recycled Standard,plant-based,0,894,0,TRUE
+Global Recycled Standard,plastic-free,0,894,0,TRUE
+Global Recycled Standard,rechargeable,0,894,0,TRUE
+Global Recycled Standard,refill,0,894,0,TRUE
+Global Recycled Standard,refurbished,0,894,0,TRUE
+Global Recycled Standard,renewable,0,894,0,TRUE
+Global Recycled Standard,solar,0,894,0,TRUE
+Global Recycled Standard,sustainable,0,894,0,TRUE
+Global Recycled Standard,upcycled,0,894,0,TRUE
+Global Recycled Standard,vegan,0,894,0,TRUE
+Global Recycled Standard,vegetarian,0,894,0,TRUE
+Global Recycled Standard,waste-free,0,894,0,TRUE
+Global Recycled Standard,water-saving,0,894,0,TRUE
+Global Recycled Standard,zerowaste,0,894,0,TRUE
+Leaping Bunny,refill,117,21066,0.005554,FALSE
+Leaping Bunny,non-toxic,74,21066,0.003513,FALSE
+Leaping Bunny,vegan,69,21066,0.003275,FALSE
+Leaping Bunny,organic,49,21066,0.002326,FALSE
+Leaping Bunny,cruelty-free,39,21066,0.001851,FALSE
+Leaping Bunny,eco-friendly,36,21066,0.001709,FALSE
+Leaping Bunny,recycle,29,21066,0.001377,FALSE
+Leaping Bunny,plant-based,18,21066,8.54e-4,TRUE
+Leaping Bunny,durable,15,21066,7.12e-4,TRUE
+Leaping Bunny,sustainable,14,21066,6.65e-4,TRUE
+Leaping Bunny,biodegradable,12,21066,5.7e-4,TRUE
+Leaping Bunny,reusable,12,21066,5.7e-4,TRUE
+Leaping Bunny,chemical-free,7,21066,3.32e-4,TRUE
+Leaping Bunny,plastic-free,7,21066,3.32e-4,TRUE
+Leaping Bunny,waste-free,2,21066,9.5e-5,TRUE
+Leaping Bunny,compostable,1,21066,4.7e-5,TRUE
+Leaping Bunny,solar,1,21066,4.7e-5,TRUE
+Leaping Bunny,vegetarian,1,21066,4.7e-5,TRUE
+Leaping Bunny,water-saving,1,21066,4.7e-5,TRUE
+Leaping Bunny,carbon-neutral,0,21066,0,TRUE
+Leaping Bunny,closed-loop,0,21066,0,TRUE
+Leaping Bunny,emission-free,0,21066,0,TRUE
+Leaping Bunny,energy-efficient,0,21066,0,TRUE
+Leaping Bunny,energy-saving,0,21066,0,TRUE
+Leaping Bunny,free-range,0,21066,0,TRUE
+Leaping Bunny,low-carbon,0,21066,0,TRUE
+Leaping Bunny,low-impact,0,21066,0,TRUE
+Leaping Bunny,net-zero,0,21066,0,TRUE
+Leaping Bunny,rechargeable,0,21066,0,TRUE
+Leaping Bunny,refurbished,0,21066,0,TRUE
+Leaping Bunny,renewable,0,21066,0,TRUE
+Leaping Bunny,upcycled,0,21066,0,TRUE
+Leaping Bunny,zerowaste,0,21066,0,TRUE
+NSF,vegan,167,22376,0.007463,FALSE
+NSF,organic,129,22376,0.005765,FALSE
+NSF,durable,125,22376,0.005586,FALSE
+NSF,refill,117,22376,0.005229,FALSE
+NSF,plant-based,37,22376,0.001654,FALSE
+NSF,vegetarian,31,22376,0.001385,FALSE
+NSF,recycle,15,22376,6.7e-4,TRUE
+NSF,reusable,10,22376,4.47e-4,TRUE
+NSF,sustainable,8,22376,3.58e-4,TRUE
+NSF,non-toxic,6,22376,2.68e-4,TRUE
+NSF,eco-friendly,5,22376,2.23e-4,TRUE
+NSF,cruelty-free,4,22376,1.79e-4,TRUE
+NSF,refurbished,4,22376,1.79e-4,TRUE
+NSF,solar,2,22376,8.9e-5,TRUE
+NSF,biodegradable,1,22376,4.5e-5,TRUE
+NSF,chemical-free,1,22376,4.5e-5,TRUE
+NSF,energy-saving,1,22376,4.5e-5,TRUE
+NSF,upcycled,1,22376,4.5e-5,TRUE
+NSF,carbon-neutral,0,22376,0,TRUE
+NSF,closed-loop,0,22376,0,TRUE
+NSF,compostable,0,22376,0,TRUE
+NSF,emission-free,0,22376,0,TRUE
+NSF,energy-efficient,0,22376,0,TRUE
+NSF,free-range,0,22376,0,TRUE
+NSF,low-carbon,0,22376,0,TRUE
+NSF,low-impact,0,22376,0,TRUE
+NSF,net-zero,0,22376,0,TRUE
+NSF,plastic-free,0,22376,0,TRUE
+NSF,rechargeable,0,22376,0,TRUE
+NSF,renewable,0,22376,0,TRUE
+NSF,waste-free,0,22376,0,TRUE
+NSF,water-saving,0,22376,0,TRUE
+NSF,zerowaste,0,22376,0,TRUE
+Non-GMO Project,organic,4750,303928,0.015629,FALSE
+Non-GMO Project,vegan,3518,303928,0.011575,FALSE
+Non-GMO Project,plant-based,828,303928,0.002724,FALSE
+Non-GMO Project,vegetarian,355,303928,0.001168,FALSE
+Non-GMO Project,refill,239,303928,7.86e-4,FALSE
+Non-GMO Project,sustainable,142,303928,4.67e-4,FALSE
+Non-GMO Project,recycle,106,303928,3.49e-4,FALSE
+Non-GMO Project,non-toxic,98,303928,3.22e-4,FALSE
+Non-GMO Project,durable,81,303928,2.67e-4,FALSE
+Non-GMO Project,reusable,76,303928,2.5e-4,FALSE
+Non-GMO Project,eco-friendly,60,303928,1.97e-4,FALSE
+Non-GMO Project,cruelty-free,47,303928,1.55e-4,FALSE
+Non-GMO Project,biodegradable,28,303928,9.2e-5,FALSE
+Non-GMO Project,chemical-free,28,303928,9.2e-5,FALSE
+Non-GMO Project,compostable,26,303928,8.6e-5,FALSE
+Non-GMO Project,solar,14,303928,4.6e-5,TRUE
+Non-GMO Project,low-impact,11,303928,3.6e-5,TRUE
+Non-GMO Project,plastic-free,11,303928,3.6e-5,TRUE
+Non-GMO Project,free-range,10,303928,3.3e-5,TRUE
+Non-GMO Project,zerowaste,5,303928,1.6e-5,TRUE
+Non-GMO Project,upcycled,4,303928,1.3e-5,TRUE
+Non-GMO Project,carbon-neutral,3,303928,1e-5,TRUE
+Non-GMO Project,refurbished,2,303928,7e-6,TRUE
+Non-GMO Project,renewable,2,303928,7e-6,TRUE
+Non-GMO Project,closed-loop,0,303928,0,TRUE
+Non-GMO Project,emission-free,0,303928,0,TRUE
+Non-GMO Project,energy-efficient,0,303928,0,TRUE
+Non-GMO Project,energy-saving,0,303928,0,TRUE
+Non-GMO Project,low-carbon,0,303928,0,TRUE
+Non-GMO Project,net-zero,0,303928,0,TRUE
+Non-GMO Project,rechargeable,0,303928,0,TRUE
+Non-GMO Project,waste-free,0,303928,0,TRUE
+Non-GMO Project,water-saving,0,303928,0,TRUE
+Oeko-Tex,durable,1089,75896,0.014349,FALSE
+Oeko-Tex,organic,279,75896,0.003676,FALSE
+Oeko-Tex,recycle,49,75896,6.46e-4,FALSE
+Oeko-Tex,reusable,42,75896,5.53e-4,FALSE
+Oeko-Tex,sustainable,34,75896,4.48e-4,FALSE
+Oeko-Tex,eco-friendly,32,75896,4.22e-4,FALSE
+Oeko-Tex,non-toxic,14,75896,1.84e-4,TRUE
+Oeko-Tex,biodegradable,4,75896,5.3e-5,TRUE
+Oeko-Tex,chemical-free,4,75896,5.3e-5,TRUE
+Oeko-Tex,refill,4,75896,5.3e-5,TRUE
+Oeko-Tex,renewable,4,75896,5.3e-5,TRUE
+Oeko-Tex,compostable,2,75896,2.6e-5,TRUE
+Oeko-Tex,plant-based,2,75896,2.6e-5,TRUE
+Oeko-Tex,vegan,2,75896,2.6e-5,TRUE
+Oeko-Tex,cruelty-free,1,75896,1.3e-5,TRUE
+Oeko-Tex,energy-saving,1,75896,1.3e-5,TRUE
+Oeko-Tex,free-range,1,75896,1.3e-5,TRUE
+Oeko-Tex,plastic-free,1,75896,1.3e-5,TRUE
+Oeko-Tex,refurbished,1,75896,1.3e-5,TRUE
+Oeko-Tex,solar,1,75896,1.3e-5,TRUE
+Oeko-Tex,upcycled,1,75896,1.3e-5,TRUE
+Oeko-Tex,carbon-neutral,0,75896,0,TRUE
+Oeko-Tex,closed-loop,0,75896,0,TRUE
+Oeko-Tex,emission-free,0,75896,0,TRUE
+Oeko-Tex,energy-efficient,0,75896,0,TRUE
+Oeko-Tex,low-carbon,0,75896,0,TRUE
+Oeko-Tex,low-impact,0,75896,0,TRUE
+Oeko-Tex,net-zero,0,75896,0,TRUE
+Oeko-Tex,rechargeable,0,75896,0,TRUE
+Oeko-Tex,vegetarian,0,75896,0,TRUE
+Oeko-Tex,waste-free,0,75896,0,TRUE
+Oeko-Tex,water-saving,0,75896,0,TRUE
+Oeko-Tex,zerowaste,0,75896,0,TRUE
+Rainforest Alliance,organic,47,6160,0.00763,FALSE
+Rainforest Alliance,compostable,35,6160,0.005682,FALSE
+Rainforest Alliance,recycle,22,6160,0.003571,FALSE
+Rainforest Alliance,reusable,10,6160,0.001623,TRUE
+Rainforest Alliance,biodegradable,8,6160,0.001299,TRUE
+Rainforest Alliance,eco-friendly,6,6160,9.74e-4,TRUE
+Rainforest Alliance,sustainable,6,6160,9.74e-4,TRUE
+Rainforest Alliance,refill,4,6160,0.00064899999999999995,TRUE
+Rainforest Alliance,vegan,2,6160,3.25e-4,TRUE
+Rainforest Alliance,durable,1,6160,1.62e-4,TRUE
+Rainforest Alliance,non-toxic,1,6160,1.62e-4,TRUE
+Rainforest Alliance,plant-based,1,6160,1.62e-4,TRUE
+Rainforest Alliance,rechargeable,1,6160,1.62e-4,TRUE
+Rainforest Alliance,carbon-neutral,0,6160,0,TRUE
+Rainforest Alliance,chemical-free,0,6160,0,TRUE
+Rainforest Alliance,closed-loop,0,6160,0,TRUE
+Rainforest Alliance,cruelty-free,0,6160,0,TRUE
+Rainforest Alliance,emission-free,0,6160,0,TRUE
+Rainforest Alliance,energy-efficient,0,6160,0,TRUE
+Rainforest Alliance,energy-saving,0,6160,0,TRUE
+Rainforest Alliance,free-range,0,6160,0,TRUE
+Rainforest Alliance,low-carbon,0,6160,0,TRUE
+Rainforest Alliance,low-impact,0,6160,0,TRUE
+Rainforest Alliance,net-zero,0,6160,0,TRUE
+Rainforest Alliance,plastic-free,0,6160,0,TRUE
+Rainforest Alliance,refurbished,0,6160,0,TRUE
+Rainforest Alliance,renewable,0,6160,0,TRUE
+Rainforest Alliance,solar,0,6160,0,TRUE
+Rainforest Alliance,upcycled,0,6160,0,TRUE
+Rainforest Alliance,vegetarian,0,6160,0,TRUE
+Rainforest Alliance,waste-free,0,6160,0,TRUE
+Rainforest Alliance,water-saving,0,6160,0,TRUE
+Rainforest Alliance,zerowaste,0,6160,0,TRUE
+Responsible Wool Standard,durable,3,55,0.054545,TRUE
+Responsible Wool Standard,carbon-neutral,1,55,0.018182,TRUE
+Responsible Wool Standard,recycle,1,55,0.018182,TRUE
+Responsible Wool Standard,sustainable,1,55,0.018182,TRUE
+Responsible Wool Standard,biodegradable,0,55,0,TRUE
+Responsible Wool Standard,chemical-free,0,55,0,TRUE
+Responsible Wool Standard,closed-loop,0,55,0,TRUE
+Responsible Wool Standard,compostable,0,55,0,TRUE
+Responsible Wool Standard,cruelty-free,0,55,0,TRUE
+Responsible Wool Standard,eco-friendly,0,55,0,TRUE
+Responsible Wool Standard,emission-free,0,55,0,TRUE
+Responsible Wool Standard,energy-efficient,0,55,0,TRUE
+Responsible Wool Standard,energy-saving,0,55,0,TRUE
+Responsible Wool Standard,free-range,0,55,0,TRUE
+Responsible Wool Standard,low-carbon,0,55,0,TRUE
+Responsible Wool Standard,low-impact,0,55,0,TRUE
+Responsible Wool Standard,net-zero,0,55,0,TRUE
+Responsible Wool Standard,non-toxic,0,55,0,TRUE
+Responsible Wool Standard,organic,0,55,0,TRUE
+Responsible Wool Standard,plant-based,0,55,0,TRUE
+Responsible Wool Standard,plastic-free,0,55,0,TRUE
+Responsible Wool Standard,rechargeable,0,55,0,TRUE
+Responsible Wool Standard,refill,0,55,0,TRUE
+Responsible Wool Standard,refurbished,0,55,0,TRUE
+Responsible Wool Standard,renewable,0,55,0,TRUE
+Responsible Wool Standard,reusable,0,55,0,TRUE
+Responsible Wool Standard,solar,0,55,0,TRUE
+Responsible Wool Standard,upcycled,0,55,0,TRUE
+Responsible Wool Standard,vegan,0,55,0,TRUE
+Responsible Wool Standard,vegetarian,0,55,0,TRUE
+Responsible Wool Standard,waste-free,0,55,0,TRUE
+Responsible Wool Standard,water-saving,0,55,0,TRUE
+Responsible Wool Standard,zerowaste,0,55,0,TRUE
+USDA Organic,organic,1323,41699,0.031727,FALSE
+USDA Organic,vegan,136,41699,0.003261,FALSE
+USDA Organic,plant-based,102,41699,0.002446,FALSE
+USDA Organic,compostable,34,41699,8.15e-4,FALSE
+USDA Organic,recycle,21,41699,5.04e-4,FALSE
+USDA Organic,reusable,20,41699,4.8e-4,FALSE
+USDA Organic,eco-friendly,18,41699,4.32e-4,TRUE
+USDA Organic,refill,18,41699,4.32e-4,TRUE
+USDA Organic,sustainable,18,41699,4.32e-4,TRUE
+USDA Organic,vegetarian,15,41699,3.6e-4,TRUE
+USDA Organic,durable,9,41699,2.16e-4,TRUE
+USDA Organic,non-toxic,9,41699,2.16e-4,TRUE
+USDA Organic,chemical-free,7,41699,1.68e-4,TRUE
+USDA Organic,biodegradable,6,41699,1.44e-4,TRUE
+USDA Organic,solar,2,41699,4.8e-5,TRUE
+USDA Organic,cruelty-free,1,41699,2.4e-5,TRUE
+USDA Organic,plastic-free,1,41699,2.4e-5,TRUE
+USDA Organic,upcycled,1,41699,2.4e-5,TRUE
+USDA Organic,waste-free,1,41699,2.4e-5,TRUE
+USDA Organic,carbon-neutral,0,41699,0,TRUE
+USDA Organic,closed-loop,0,41699,0,TRUE
+USDA Organic,emission-free,0,41699,0,TRUE
+USDA Organic,energy-efficient,0,41699,0,TRUE
+USDA Organic,energy-saving,0,41699,0,TRUE
+USDA Organic,free-range,0,41699,0,TRUE
+USDA Organic,low-carbon,0,41699,0,TRUE
+USDA Organic,low-impact,0,41699,0,TRUE
+USDA Organic,net-zero,0,41699,0,TRUE
+USDA Organic,rechargeable,0,41699,0,TRUE
+USDA Organic,refurbished,0,41699,0,TRUE
+USDA Organic,renewable,0,41699,0,TRUE
+USDA Organic,water-saving,0,41699,0,TRUE
+USDA Organic,zerowaste,0,41699,0,TRUE
