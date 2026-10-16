@@ -63,13 +63,6 @@ The order matters in two places, which `run_all.R` documents:
 `41_rq4_uncertainty.R` must run after `30_rq3_reproduction.R`, and
 `42_rq4_tables.R` after `41_rq4_uncertainty.R`.
 
-The precision check runs separately, with manual coding in between:
-
-```r
-Rscript R/60_validate_lexicon.R sample   # build the coding sheet
-Rscript R/60_validate_lexicon.R score    # after filling in the `correct` column
-```
-
 **Data preparation (`R/02`–`R/04`) cannot be re-run as it stands.** The raw
 `.jsonl.gz` downloads were deleted after processing to save disk space. The
 scripts are kept so the pipeline is documented and can be repeated by anyone
