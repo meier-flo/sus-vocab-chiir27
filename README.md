@@ -33,13 +33,6 @@ match hyphen, space and no-space spellings alike (`plant-based`, `plant based`,
 `plantbased`). The longest matching term at a given position wins, so
 `USDA Organic` is not also counted as `organic`.
 
-`STANDARD 100` is excluded: it is the Oeko-Tex sub-standard, so Oeko-Tex
-already covers it, and on its own it mostly matches text such as
-"Standard 100% cotton".
-
-A manual precision check of the terms most open to misreading is in
-`R/60_validate_lexicon.R`.
-
 ## Layout
 
 ```
